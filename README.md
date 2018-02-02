@@ -2,7 +2,10 @@
 
 ## Run
 
-You may need to run it in a web server, e.g.
+Try it out here: https://renuo.github.io/arjs-demo/
+
+To run it locally, you may need to run it in a web server, e.g.:
+
 ```sh
 python -m SimpleHTTPServer
 ```
